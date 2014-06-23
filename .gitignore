@@ -1,3 +1,30 @@
 .DS_Store
 *.tmproj
 
+
+2
+3
+.DS_Store
+*.tmproj
+
+
+2
+3
+.DS_Store
+*.tmproj
+
+8BTC every 101% odds
+
+compare diff
+
+307289 (Main Chain)	2014-06-23 00:58:58	GHash.IO	000000000000000000a20dc522d82b27d450fde952b53d31a15c35352ef86d1c
+
+merkable root
+
+ssh -vT git@github.com
+# OpenSSH_5.6p1, OpenSSL 0.9.8r 8 Feb 2011
+# debug1: Reading configuration data /Users/you/.ssh/config
+# debug1: Reading configuration data /etc/ssh_config
+# debug1: Applying options for *
+# debug1: Connecting to github.com [192.30.252.131] port 22.
+
