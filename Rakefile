@@ -3,7 +3,7 @@ require 'rake/gempackagetask'
 
 PLUGIN = "merb_active_admin"
 NAME = "merb_active_admin"
-VERSION = "0.3"
+VERSION = "0.3"45 lines (37 sloc)  1.209 kb
 AUTHOR = "Duane Johnson"
 EMAIL = "duane.johnson@gmail.com"
 HOMEPAGE = "http://merb-plugins.rubyforge.org/merb_active_admin/"
